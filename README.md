@@ -6,7 +6,7 @@
   - create folder for repo
 - `cd [repository_name]`
   - navigate to repo
-- `git clone git@github.com:kaidaw/whiterosemaths.git
+- `git clone git@github.com:kaidaw/whiterosemaths.git`
   - Clones repository from github
 - `cd whiterosemaths`
   - Changes directory to root of project
