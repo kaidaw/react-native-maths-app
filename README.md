@@ -1,19 +1,19 @@
-<h1>Manipulative Maths Readme</h1>
+# Manipulative Maths Readme
 
-<h2>Installation guide:</h2>
-<ul>
-<li>first: create or select an existing repository location and navigate to this in your terminal</li>
-<li>`git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github`</li>
-<li>#clones repository from github</li>
-<li>`cd whiterosemaths`</li>
-<li> #changes directory to root of project</li>
-<li>`npm i`</li>
-<li>#installs project</li>
-<li>`npm start`</li>
-<li>#starts project</li>
-<li>install expo go on mobile</li>
-<li>go to camera scan qr code and click the link which appears- you may have to do this a couple of times</li>
-</ul>
+## Installation guide:
+
+- First: create or select an existing repository location and navigate to this in your terminal
+- `git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github`
+  - Clones repository from github
+- `cd whiterosemaths`
+  - Changes directory to root of project
+- `npm i`
+  - Installs project
+- `npm start`
+  - Starts project
+- Install expo go on mobile
+- Go to camera scan qr code and click the link which appears- you may have to do this a couple of times
+
 
 <h2>User guide</h2>
 
