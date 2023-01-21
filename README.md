@@ -2,10 +2,15 @@
 
 <h2>Installation guide:</h2>
 <ul>
-<li>git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github</li>
-<li>cd whiterosemaths #changes directory to root of project</li>
-<li>npm i #installs project</li>
-<li>npm start #starts project</li>
+<li>first: create or select an existing repository location and navigate to this in your terminal</li>
+<li>`git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github`</li>
+<li>#clones repository from github</li>
+<li>`cd whiterosemaths`</li>
+<li> #changes directory to root of project</li>
+<li>`npm i`</li>
+<li>#installs project</li>
+<li>`npm start`</li>
+<li>#starts project</li>
 <li>install expo go on mobile</li>
 <li>go to camera scan qr code and click the link which appears- you may have to do this a couple of times</li>
 </ul>
