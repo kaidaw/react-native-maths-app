@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7efb9404-a092-4169-b70c-d1f4f9b4529f"
+      }
+    },
+    "owner": "kaidaw"
   }
 }
