@@ -2,8 +2,11 @@
 
 ## Installation guide:
 
-- First: create or select an existing repository location and navigate to this in your terminal
-- `git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github`
+- `mkdir [repository_name]`
+  - create folder for repo
+- `cd [repository_name]`
+  - navigate to repo
+- `git clone git@github.com:kaidaw/whiterosemaths.git
   - Clones repository from github
 - `cd whiterosemaths`
   - Changes directory to root of project
