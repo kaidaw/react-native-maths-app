@@ -36,6 +36,19 @@ then press 'confirm' to move onto the next question. <br/>
 You will see your total score at the end!  <br/>
 Good luck!
  </p>
+ 
+ > Welcome to Manipulative Maths! 
+>
+> Your challenge is to work through a series of 10 puzzles
+where you are required to correctly count the number
+of active squares- these show up in green. 
+The answer will always be between One and Ten (1 and 10).
+There are no trick questions!
+Press the 'answer' box to begin and type your answer, 
+then press 'confirm' to move onto the next question.
+You will see your total score at the end! 
+
+> Good luck!
   
   <p>
   I would like to take this opportunity to highlight a few aspects of my experience building this application: <br/>
