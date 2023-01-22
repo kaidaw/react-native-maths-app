@@ -27,13 +27,13 @@ Once you are in the application, you should see the following instructions:
  <p>
 Welcome to Manipulative Maths! <br/>
 Your challenge is to work through a series of 10 puzzles <br/>
-where you are required to correctly count the number of active <br/>
-squares- these show up in green.  <br/>
-The answer will always be between One and Ten (1 and <br/>
-10). There are no trick questions!  <br/>
+where you are required to correctly count the number<br/>
+of active squares- these show up in green.  <br/>
+The answer will always be between One and Ten (1 and 10).<br/>
+There are no trick questions!  <br/>
 Press the 'answer' box to begin and type your answer, <br/>
-then press 'confirm' to move onto the next question. You will <br/>
-see your total score at the end!  <br/>
+then press 'confirm' to move onto the next question. <br/>
+You will see your total score at the end!  <br/>
 Good luck!
  </p>
   
