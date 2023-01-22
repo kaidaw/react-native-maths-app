@@ -47,7 +47,7 @@ There are no trick questions!
 Press the 'answer' box to begin and type your answer, 
 then press 'confirm' to move onto the next question.
 You will see your total score at the end! 
-
+> 
 > Good luck!
   
   <p>
