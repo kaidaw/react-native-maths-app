@@ -52,7 +52,7 @@ Good luck!
   <h3>BONUS QUESTION:</h3>
   
   <b>
-  >Suppose we also wanted to make a new quiz with different questions,
+  > Suppose we also wanted to make a new quiz with different questions,
   where the user is given a number and is tasked with representing that
   number in an interactive ten-frame. Think about how you might implement this,
   and write down a few points when you submit.
