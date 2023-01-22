@@ -51,12 +51,12 @@ Good luck!
   
   <h3>BONUS QUESTION:</h3>
   
-  <p>
-  Suppose we also wanted to make a new quiz with different questions,
+  <b>
+  >Suppose we also wanted to make a new quiz with different questions,
   where the user is given a number and is tasked with representing that
   number in an interactive ten-frame. Think about how you might implement this,
   and write down a few points when you submit.
-  </p>
+  </b>
   <p>
   The first idea that comes to mind for implementing an interactive ten frame where the user is
   tasked with representing a number in the most logical way would be: <br/>
