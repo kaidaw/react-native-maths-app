@@ -2,6 +2,7 @@
 
 ## Installation guide:
 
+- In OSX: Open a command line interface (terminal)
 - `mkdir [repository_name]`
   - create folder for repo
 - `cd [repository_name]`
@@ -14,9 +15,10 @@
   - Installs project
 - `npm start`
   - Starts project
-- Install expo go on mobile
-- Go to camera scan qr code and click the link which appears- you may have to do this a couple of times
-
+- Install "expo go" application on your mobile device
+- Open your camera application on your mobile device
+- Scan the QR code shown in the terminal where you are running the project
+- A link should appear- click this link (this step might take a couple of tries)
 
 <h2>User guide</h2>
 
