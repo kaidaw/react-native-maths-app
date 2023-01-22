@@ -20,7 +20,7 @@
 
 <h2>User guide</h2>
 
-once you are in the application, you should see the following instructions:
+Once you are in the application, you should see the following instructions:
 
  <p>
 Welcome to Manipulative Maths! <br/>
